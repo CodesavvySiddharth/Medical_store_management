@@ -1,0 +1,10 @@
+
+1		 tylenol		 342		 31.000000
+2		 paracetamol		 422		 123.000000
+3		 abacavir		 34		 666.000000
+4		 amoxicilin		 434		 233.000000
+7		 vicolin		 434		 4364.000000
+11		 vitamin		 112		 54.000000
+13		 azithromy		 324		 100.000000
+21		 synthroid		 49		 2000.000000
+111		 nexium		 7665		 545.000000

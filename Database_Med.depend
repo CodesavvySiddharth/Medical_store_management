@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670263494 source:d:\Siddharthoop\Siddharth\new folder (2)\database_med\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
